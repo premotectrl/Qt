@@ -80,3 +80,6 @@ style
     .Kcontainer .tiled:nth-child(2n){
         margin-left: 20px;  
     }
+    
+link.....
+https://css-tricks.com/fixing-tables-long-strings/

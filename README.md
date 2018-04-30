@@ -1,3 +1,36 @@
+
+    .flexContainer{
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 140pt);
+        /*grid-gap: 3rem;*/
+        grid-row-gap: 2rem;
+        grid-column-gap: 3rem;
+        justify-content: space-evenly;
+    
+        /* boring properties */
+        list-style: none;
+       
+        padding: 1rem;
+        width: 100%;
+        margin: 0 auto;
+       
+    }
+    ul {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 145pt);
+        grid-gap: 5rem;
+        justify-content: space-evenly;
+    
+        /* boring properties */
+        list-style: none;
+        background: wheat;
+        padding: 1rem;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+
+
 style
   .state{
         width:90%;

@@ -24,6 +24,8 @@ link.....
 Adhoc:
 https://pdfs.semanticscholar.org/presentation/3e30/1bbb4c5300cf502fdc25bde347b5eca6ae81.pdf
 
+http://vega.cs.kent.edu/~mikhail/classes/pa.s00/L01intro.PDF
+
 
 https://bitbucket.org/kukaaustin/mobile-robotics-frontend/src/master/
 

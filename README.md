@@ -21,6 +21,10 @@ robocopy D:\mobile-robotics-frontend\dist  D:\red-river-frontend\build\app\jspm\
 
 link.....
 
+Adhoc:
+https://pdfs.semanticscholar.org/presentation/3e30/1bbb4c5300cf502fdc25bde347b5eca6ae81.pdf
+
+
 https://bitbucket.org/kukaaustin/mobile-robotics-frontend/src/master/
 
 https://css-tricks.com/fixing-tables-long-strings/

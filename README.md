@@ -28,3 +28,18 @@ https://css-tricks.com/fixing-tables-long-strings/
 https://developer.mozilla.org/en-US/docs/Web/CSS/transform#matrix()
 
 https://www.youtube.com/watch?v=PS96nkFfWcg
+
+
+VUE.js
+
+<script src = "https://unpkg.com/vue@2.5.16/dist/vue.js"> </script>
+<div id ="root">
+    <input type="text" id ="input" v-model ='msg'>
+    <h1> {{msg}} </h1>
+</div>
+<script> 
+    new Vue({
+        el: '#root',
+        msg: 'Now you see me'
+    })
+</script>

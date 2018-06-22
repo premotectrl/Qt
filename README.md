@@ -20,6 +20,7 @@ robocopy D:\mobile-robotics-frontend\dist  D:\red-river-frontend\build\app\jspm\
 
 
 link.....
+https://medium.lucaskatayama.com/migrating-from-angular-to-vuejs-71277cdc3dd9
 
 Adhoc:
 https://pdfs.semanticscholar.org/presentation/3e30/1bbb4c5300cf502fdc25bde347b5eca6ae81.pdf
